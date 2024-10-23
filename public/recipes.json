@@ -2,7 +2,7 @@
     {
       "recipe_id": 1,
       "recipe_name": "Spaghetti Carbonara",
-      "recipe_image": "carbonara.jpg",
+      "recipe_image": "https://i.ibb.co.com/6WXSrNC/Chicken.jpg",
       "short_description": "A classic Italian pasta dish with creamy egg sauce and pancetta.",
       "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan cheese", "black pepper"],
       "preparing_time": "25 minutes",
@@ -11,7 +11,7 @@
     {
       "recipe_id": 2,
       "recipe_name": "Chicken Tikka Masala",
-      "recipe_image": "chicken_tikka_masala.jpg",
+      "recipe_image": "https://i.ibb.co.com/kqmVcxs/frenchfry.jpg",
       "short_description": "A flavorful dish made with grilled chicken in a spicy curry sauce.",
       "ingredients": ["chicken", "yogurt", "garam masala", "tomatoes", "cream"],
       "preparing_time": "45 minutes",
@@ -20,7 +20,7 @@
     {
       "recipe_id": 3,
       "recipe_name": "Vegetable Stir-Fry",
-      "recipe_image": "vegetable_stir_fry.jpg",
+      "recipe_image": "https://i.ibb.co.com/tXzS8wB/meat.jpg",
       "short_description": "A quick and healthy stir-fry with fresh vegetables and soy sauce.",
       "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "garlic"],
       "preparing_time": "20 minutes",
@@ -29,7 +29,7 @@
     {
       "recipe_id": 4,
       "recipe_name": "Beef Tacos",
-      "recipe_image": "beef_tacos.jpg",
+      "recipe_image": "https://i.ibb.co.com/xmW21QR/Polao.jpg",
       "short_description": "Crispy tacos filled with seasoned beef and topped with fresh veggies.",
       "ingredients": ["ground beef", "taco shells", "lettuce", "tomatoes", "cheese"],
       "preparing_time": "30 minutes",
@@ -38,7 +38,7 @@
     {
       "recipe_id": 5,
       "recipe_name": "Avocado Toast",
-      "recipe_image": "avocado_toast.jpg",
+      "recipe_image": "https://i.ibb.co.com/B6szdxK/Prown.jpg",
       "short_description": "A simple, healthy toast with mashed avocado and seasoning.",
       "ingredients": ["avocado", "whole grain bread", "olive oil", "lemon", "salt"],
       "preparing_time": "10 minutes",
@@ -47,101 +47,20 @@
     {
       "recipe_id": 6,
       "recipe_name": "Mushroom Risotto",
-      "recipe_image": "mushroom_risotto.jpg",
+      "recipe_image": "https://i.ibb.co.com/MZC8xJ7/Shorma.jpg",
       "short_description": "Creamy risotto with sautéed mushrooms and parmesan cheese.",
       "ingredients": ["arborio rice", "mushrooms", "parmesan cheese", "onion", "white wine"],
       "preparing_time": "40 minutes",
       "calories": 550
-    },
-    {
-      "recipe_id": 7,
-      "recipe_name": "Grilled Salmon",
-      "recipe_image": "grilled_salmon.jpg",
-      "short_description": "Tender grilled salmon served with a lemon butter sauce.",
-      "ingredients": ["salmon fillets", "lemon", "butter", "garlic", "dill"],
-      "preparing_time": "25 minutes",
-      "calories": 400
-    },
-    {
-      "recipe_id": 8,
-      "recipe_name": "Caesar Salad",
-      "recipe_image": "caesar_salad.jpg",
-      "short_description": "A crisp salad with romaine lettuce, croutons, and Caesar dressing.",
-      "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "Caesar dressing", "anchovies"],
-      "preparing_time": "15 minutes",
-      "calories": 350
-    },
-    {
-      "recipe_id": 9,
-      "recipe_name": "Margherita Pizza",
-      "recipe_image": "margherita_pizza.jpg",
-      "short_description": "A classic pizza topped with fresh mozzarella, basil, and tomatoes.",
-      "ingredients": ["pizza dough", "mozzarella cheese", "tomato sauce", "fresh basil", "olive oil"],
-      "preparing_time": "30 minutes",
-      "calories": 700
-    },
-    {
-      "recipe_id": 10,
-      "recipe_name": "Chicken Caesar Wrap",
-      "recipe_image": "chicken_caesar_wrap.jpg",
-      "short_description": "A portable wrap filled with grilled chicken and Caesar salad.",
-      "ingredients": ["chicken breast", "tortilla wraps", "romaine lettuce", "parmesan", "Caesar dressing"],
-      "preparing_time": "20 minutes",
-      "calories": 450
-    },
-    {
-      "recipe_id": 11,
-      "recipe_name": "Greek Salad",
-      "recipe_image": "greek_salad.jpg",
-      "short_description": "A refreshing salad with cucumbers, tomatoes, olives, and feta.",
-      "ingredients": ["cucumbers", "tomatoes", "kalamata olives", "feta cheese", "olive oil"],
-      "preparing_time": "15 minutes",
-      "calories": 220
-    },
-    {
-      "recipe_id": 12,
-      "recipe_name": "Pad Thai",
-      "recipe_image": "pad_thai.jpg",
-      "short_description": "A popular Thai dish with rice noodles, shrimp, peanuts, and lime.",
-      "ingredients": ["rice noodles", "shrimp", "peanuts", "bean sprouts", "tamarind paste"],
-      "preparing_time": "30 minutes",
-      "calories": 600
-    },
-    {
-      "recipe_id": 13,
-      "recipe_name": "Quinoa Salad",
-      "recipe_image": "quinoa_salad.jpg",
-      "short_description": "A healthy salad made with quinoa, cherry tomatoes, and avocado.",
-      "ingredients": ["quinoa", "cherry tomatoes", "avocado", "cucumber", "lemon vinaigrette"],
-      "preparing_time": "20 minutes",
-      "calories": 350
-    },
-    {
-      "recipe_id": 14,
-      "recipe_name": "Lamb Curry",
-      "recipe_image": "lamb_curry.jpg",
-      "short_description": "A rich and spicy lamb curry with traditional Indian spices.",
-      "ingredients": ["lamb", "curry powder", "onions", "garlic", "coconut milk"],
-      "preparing_time": "1 hour",
-      "calories": 800
-    },
-    {
-      "recipe_id": 15,
-      "recipe_name": "Pancakes",
-      "recipe_image": "pancakes.jpg",
-      "short_description": "Fluffy pancakes served with maple syrup and butter.",
-      "ingredients": ["flour", "eggs", "milk", "baking powder", "sugar"],
-      "preparing_time": "20 minutes",
-      "calories": 300
-    },
-    {
-      "recipe_id": 16,
-      "recipe_name": "Falafel Wrap",
-      "recipe_image": "falafel_wrap.jpg",
-      "short_description": "A tasty wrap filled with crispy falafel, hummus, and veggies.",
-      "ingredients": ["falafel", "tortilla wraps", "hummus", "lettuce", "cucumbers"],
-      "preparing_time": "25 minutes",
-      "calories": 400
     }
+ 
+   
+  
+   
+ 
+ 
+   
+   
+   
   ]
   
