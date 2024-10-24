@@ -5,7 +5,7 @@
       "recipe_image": "https://i.ibb.co.com/6WXSrNC/Chicken.jpg",
       "short_description": "A classic Italian pasta dish with creamy egg sauce and pancetta.",
       "ingredients": ["spaghetti", "eggs", "pancetta", "parmesan cheese", "black pepper"],
-      "preparing_time": "25 minutes",
+      "preparing_time": 25,
       "calories": 600
     },
     {
@@ -14,7 +14,7 @@
       "recipe_image": "https://i.ibb.co.com/kqmVcxs/frenchfry.jpg",
       "short_description": "A flavorful dish made with grilled chicken in a spicy curry sauce.",
       "ingredients": ["chicken", "yogurt", "garam masala", "tomatoes", "cream"],
-      "preparing_time": "45 minutes",
+      "preparing_time": 45,
       "calories": 450
     },
     {
@@ -23,7 +23,7 @@
       "recipe_image": "https://i.ibb.co.com/tXzS8wB/meat.jpg",
       "short_description": "A quick and healthy stir-fry with fresh vegetables and soy sauce.",
       "ingredients": ["broccoli", "carrots", "bell peppers", "soy sauce", "garlic"],
-      "preparing_time": "20 minutes",
+      "preparing_time": 20,
       "calories": 300
     },
     {
@@ -32,7 +32,7 @@
       "recipe_image": "https://i.ibb.co.com/xmW21QR/Polao.jpg",
       "short_description": "Crispy tacos filled with seasoned beef and topped with fresh veggies.",
       "ingredients": ["ground beef", "taco shells", "lettuce", "tomatoes", "cheese"],
-      "preparing_time": "30 minutes",
+      "preparing_time": 30,
       "calories": 500
     },
     {
@@ -41,7 +41,7 @@
       "recipe_image": "https://i.ibb.co.com/B6szdxK/Prown.jpg",
       "short_description": "A simple, healthy toast with mashed avocado and seasoning.",
       "ingredients": ["avocado", "whole grain bread", "olive oil", "lemon", "salt"],
-      "preparing_time": "10 minutes",
+      "preparing_time": 10,
       "calories": 250
     },
     {
@@ -50,7 +50,7 @@
       "recipe_image": "https://i.ibb.co.com/MZC8xJ7/Shorma.jpg",
       "short_description": "Creamy risotto with sautéed mushrooms and parmesan cheese.",
       "ingredients": ["arborio rice", "mushrooms", "parmesan cheese", "onion", "white wine"],
-      "preparing_time": "40 minutes",
+      "preparing_time": 40,
       "calories": 550
     }
  
